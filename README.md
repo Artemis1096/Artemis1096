@@ -23,8 +23,9 @@ Aspiring Software Engineer passionate about data science and blockchain. Current
 <br> 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Artemis1096&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Artemis1096&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Artemis1096&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Artemis1096&theme=dark&hide_border=false)<br/> -->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemis1096&show_icons=true&theme=dark)
 
 
 ### ✍️ Random Dev Quote
