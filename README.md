@@ -22,6 +22,9 @@ Aspiring Software Engineer passionate about data science and blockchain. Current
 
 <br> 
 
+# Open Source:
+[![An image of @artemis1096's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/artemis1096)](https://holopin.io/@artemis1096)
+
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Artemis1096&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Artemis1096&theme=dark&hide_border=false)<br/> -->
