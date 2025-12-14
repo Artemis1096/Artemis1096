@@ -1,7 +1,6 @@
 # 💫 About Me:
 Aspiring Software Engineer passionate about data science and blockchain. Currently pursuing MCA with a focus on data analysis, machine learning, and blockchain technologies. Seeking opportunities to apply skills in data-driven decision-making and predictive modeling. Let's connect and explore the possibilities!
 
-
 # Connect with me:
 <p align="left">
 <a href="https://codepen.io/jashanpreetsingh821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jashanpreetsingh821" height="30" width="40" /></a>
@@ -39,5 +38,5 @@ Aspiring Software Engineer passionate about data science and blockchain. Current
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Artemis1096&show_icons=true&theme=dark)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Artemis1096&label=Profile%20views&color=0e75b6&style=flat" alt="Artemis1096" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
